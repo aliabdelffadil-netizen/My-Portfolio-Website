@@ -11,8 +11,6 @@
 
 <img width="900" height="591" alt="Screenshot 2026-07-01 171202" src="https://github.com/user-attachments/assets/b47ed60d-5180-4224-8c00-613acd5d211d" />
 
-<br><br>
-
 👉 **Live Demo:** [https://ali-abdelffadil-portfolio.vercel.app/](https://ali-abdelffadil-portfolio.vercel.app/)
 
 ---
