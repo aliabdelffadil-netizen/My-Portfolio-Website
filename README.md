@@ -1,42 +1,34 @@
-<div align="center">
+ # 🌐 My Portfolio Website
 
-# 🛡️ Ali Ahmed | Personal Portfolio
+![Deploy](https://img.shields.io/badge/DEPLOY-VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![License](https://img.shields.io/badge/LICENSE-MIT-97ca00?style=for-the-badge)
+![Status](https://img.shields.io/badge/STATUS-LIVE-4c1?style=for-the-badge)
+![Made With](https://img.shields.io/badge/MADE%20WITH-HTML%2C%20CSS%2C%20JS-e34f26?style=for-the-badge)
 
-**Cybersecurity Student**
+---
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ali-abdelffadil-portfolio.vercel.app/)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge)](#)
+## 🖼️ Homepage Preview
 
-<br>
+<img width="900" height="591" alt="Screenshot 2026-07-01 171202" src="https://github.com/user-attachments/assets/b47ed60d-5180-4224-8c00-613acd5d211d" />
 
-*Passionate about ethical hacking, continuous learning, and building a solid foundation in network defense.*
+## 📫 Connect With Me<a href="https://ali-abdelffadil-portfolio.vercel.app/">
+  <img src="https://via.placeholder.com/900x500.png?text=Upload+Your+Portfolio+Screenshot+Here" alt="Ali Ahmed Portfolio Preview" width="100%">
+</a>
 
-</div>
+<br><br>
 
-<br>
+👉 **Live Demo:** [https://ali-abdelffadil-portfolio.vercel.app/](https://ali-abdelffadil-portfolio.vercel.app/)
 
-## 📖 About This Repository
+---
 
-This repository contains the source code for my personal portfolio website. It serves as a central digital hub to showcase my journey, current focus, and contact information as a Cybersecurity student building my technical foundation. 
+## 📌 Overview
 
-The design is intentionally minimalist and dark-themed to provide a clean, distraction-free user experience.
+This repository contains the source code for my **personal portfolio website**. 
+It highlights my **skills, focus areas, and learning journey** in:
 
-## ✨ Features
-
-* **Minimalist Dark Theme:** Designed for readability and a modern, professional aesthetic.
-* **Responsive Layout:** Fully optimized for seamless viewing across all devices (Desktop, Tablet, Mobile).
-* **Availability Status:** Includes a live status indicator showing my availability for new opportunities.
-* **Quick Links:** Easy access to my GitHub, LinkedIn, and direct contact methods.
-
-## 🛠️ Deployment
-
-The website is deployed and hosted on **Vercel** for fast and reliable performance. 
-
-## 🚀 Live Preview
-
-You can view the live portfolio here: **[ali-abdelffadil-portfolio.vercel.app](https://ali-abdelffadil-portfolio.vercel.app/)**
-
-## 📫 Connect With Me
+* **Cybersecurity & Ethical Hacking**
+* **Network Defense Fundamentals**
+* **Linux System Administration & Python Scripting**
 
 Feel free to reach out for collaborations, opportunities, or just to say hi!
 
