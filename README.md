@@ -11,10 +11,6 @@
 
 <img width="900" height="591" alt="Screenshot 2026-07-01 171202" src="https://github.com/user-attachments/assets/b47ed60d-5180-4224-8c00-613acd5d211d" />
 
-
-  <img src="https://via.placeholder.com/900x500.png?text=Upload+Your+Portfolio+Screenshot+Here" alt="Ali Ahmed Portfolio Preview" width="100%">
-</a>
-
 <br><br>
 
 👉 **Live Demo:** [https://ali-abdelffadil-portfolio.vercel.app/](https://ali-abdelffadil-portfolio.vercel.app/)
