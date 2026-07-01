@@ -26,6 +26,16 @@ It highlights my **skills, focus areas, and learning journey** in:
   
 ---
 
+## 🛠️ Technologies Used
+
+* **Frontend:** React.js, TypeScript
+* **Styling:** Tailwind CSS
+* **Build Tool:** Vite
+* **Deployment:** Vercel
+
+---
+
+
 ## 📫 Connect With Me<a href="https://ali-abdelffadil-portfolio.vercel.app/">
 Feel free to reach out for collaborations, opportunities, or just to say hi!
 
