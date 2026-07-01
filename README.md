@@ -11,7 +11,7 @@
 
 <img width="900" height="591" alt="Screenshot 2026-07-01 171202" src="https://github.com/user-attachments/assets/b47ed60d-5180-4224-8c00-613acd5d211d" />
 
-## 📫 Connect With Me<a href="https://ali-abdelffadil-portfolio.vercel.app/">
+
   <img src="https://via.placeholder.com/900x500.png?text=Upload+Your+Portfolio+Screenshot+Here" alt="Ali Ahmed Portfolio Preview" width="100%">
 </a>
 
@@ -29,7 +29,10 @@ It highlights my **skills, focus areas, and learning journey** in:
 * **Cybersecurity & Ethical Hacking**
 * **Network Defense Fundamentals**
 * **Linux System Administration & Python Scripting**
+  
+---
 
+## 📫 Connect With Me<a href="https://ali-abdelffadil-portfolio.vercel.app/">
 Feel free to reach out for collaborations, opportunities, or just to say hi!
 
 * **LinkedIn:** [Ali Ahmed](https://www.linkedin.com/in/ali-ahmed-220905377/)
